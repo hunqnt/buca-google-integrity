@@ -11,9 +11,27 @@ npx cap sync
 
 ## API
 
-<docgen-index></docgen-index>
+<docgen-index>
+
+* [`checkIntegrity(...)`](#checkintegrity)
+
+</docgen-index>
 
 <docgen-api>
-<!-- run docgen to generate docs from the source -->
-<!-- More info: https://github.com/ionic-team/capacitor-docgen -->
+<!--Update the source file JSDoc comments and rerun docgen to update the docs below-->
+
+### checkIntegrity(...)
+
+```typescript
+checkIntegrity(data: any) => Promise<any>
+```
+
+| Param      | Type             |
+| ---------- | ---------------- |
+| **`data`** | <code>any</code> |
+
+**Returns:** <code>Promise&lt;any&gt;</code>
+
+--------------------
+
 </docgen-api>
