@@ -1,6 +1,6 @@
 # buca-google-integrity
 
-plugin check devide
+plugin check device for asxh team of buca jsc
 
 ## Install
 
